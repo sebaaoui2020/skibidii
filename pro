@@ -42,27 +42,29 @@
     "Guide": [
         {
             "Title": "Title 1",
-            "Content": "Now you have finished the integration. If you wanna test your apps, make sure you use test ads rather than live, production ads. The easiest way to load test ads is to use test mode. Its been specially configured to return test ads for every request, and you're free to use it in your own apps while coding, testing, and debugging.Now you have finished the integration. If you wanna test your apps, make sure you use test ads rather than live, production ads. The easiest way to load test ads is to use test mode. Its been specially configured to return test ads for every request, and you're free to use it in your own apps while coding, testing, and debugging.Now you have finished the integration. If you wanna test your apps, make sure you use test ads rather than live, production ads. The easiest way to load test ads is to use test mode. Its been specially configured to return test ads for every request, and you're free to use it in your own apps while coding, testing, and debugging.Now you have finished the integration. If you wanna test your apps, make sure you use test ads rather than live, production ads. The easiest way to load test ads is to use test mode. Its been specially configured to return test ads for every request, and you're free to use it in your own apps while coding, testing, and debugging.",
+            "Content": "Skibidi War: Toilets Attack is a new dual stick shooter for the iOS and Android platforms based off of the Internet meme. You play as a camera head armed with a gun, and your goal is to last as many rounds as possible against waves of Skibidi Toilets. You can collect coins, unlock new characters, upgrade your health and your earnings, and even unlock new weapons Read on for a collection of tips and cheats for Skibidi War: Toilets Attack.",
             "Img": "https://i.cbc.ca/1.4230699.1509659230!/fileImage/httpImage/new-hosts.jpg"
         },
         {
             "Title": "Title 2",
-            "Content": "Content 2",
+            "Content": "Whenever you knock off one of the toilets, you will earn a coin; additionally, the toilet will drop a coin as well. The dropped coin has to be manually picked up in order to be earned; if you missed a coin, then you won’t collect it, but they will stick around after the round is done so that you can run them over later.
+These coins can be used to purchase various upgrades. The health upgrade increases the amount of hits that you’re able to take before you lose. The coin upgrade increases the amount of coins that you get when you knock off one of the toilets, although the coins that you run over will still only be worth one apiece.",
             "Img": "https://i.cbc.ca/1.4230699.1509659230!/fileImage/httpImage/new-hosts.jpg"
         },
         {
             "Title": "Title 3",
-            "Content": "Content 3",
+            "Content": "The third upgrade is the range upgrade, which increases the distance that your bullets are able to fire. This is an extremely vital upgrade especially against the bosses, which tend to show up every fourth wave. Bosses will do damage from a distance, and they take a lot of hits to knock out.",
             "Img": "https://i.cbc.ca/1.4230699.1509659230!/fileImage/httpImage/new-hosts.jpg"
         },
         {
             "Title": "Title 4",
-            "Content": "Content 4",
+            "Content": "Whenever you’re facing off against one of the bosses, always be sure to keep moving from side to side, so that their shots have the lowest possible chance of hitting you. Additionally, make sure that you are aiming straight, so that you can hit them, because from far away, they tend to be a very small target. They take a number of hits to knock out, but they are worth large amounts of rewards.",
             "Img": "https://i.cbc.ca/1.4230699.1509659230!/fileImage/httpImage/new-hosts.jpg"
         },
         {
             "Title": "Title 5 ",
-            "Content": "Content 5",
+            "Content": "The only weapon that you have to begin the game is the AK-47. Right now, it appears that no other weapons are available to be unlocked with coins; if you want to unlock more weapons, the game forces you to buy the premium package, which costs five dollars or your local currency equivalent, but you only have to pay one time.
+Camera heads are another upgrade, and unlike the weapons, you can unlock new camera heads using coins. Camera heads are strictly a cosmetic upgrade; they all have the same performance in battle, but they are a fun addition if you want to customize the game and collect them all.",
             "Img": "https://i.cbc.ca/1.4230699.1509659230!/fileImage/httpImage/new-hosts.jpg"
         }
     ],
