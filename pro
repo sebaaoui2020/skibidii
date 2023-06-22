@@ -69,7 +69,7 @@ Camera heads are another upgrade, and unlike the weapons, you can unlock new cam
         }
     ],
     "Wallpaper": [
-        "https://e1.pxfuel.com/desktop-wallpaper/928/112/desktop-wallpaper-pin-de-amanda-naylaa-em-phone-toca-boca.jpg",
+        "https://cdn-0001.qstv.on.epicgames.com/oYjFZOFmEVrdRBRoBm/image/screen_comp.jpeg",
         "https://wonder-day.com/wp-content/uploads/2022/03/wonder-day-toca-boca-phone-wallpaper-43.jpg",
         "https://wonder-day.com/wp-content/uploads/2022/03/wonder-day-toca-boca-phone-wallpaper-12.jpg",
         "https://toca-world.io/wp-content/uploads/2020/10/toca_life_world_wallpaper_mobile_01.jpg",
